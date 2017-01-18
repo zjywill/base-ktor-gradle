@@ -1,4 +1,4 @@
-group 'base-ktor-gradle'
+group 'STRIPED_PROJECT_NAME'
 version '1.0-SNAPSHOT'
 
 buildscript {
