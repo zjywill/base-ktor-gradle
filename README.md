@@ -10,7 +10,7 @@ cd base-ktor-gradle
 ./gradlew run
 ```
 
-Open browser http://localhost:8080
+Open browser http://localhost:5000
 
 ## Project folder Structure
 
