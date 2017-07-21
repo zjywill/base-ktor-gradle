@@ -1,4 +1,4 @@
-package com.example
+package com.comix
 
 import org.jetbrains.ktor.application.Application
 import org.jetbrains.ktor.application.install
